@@ -2,6 +2,7 @@
 -----------------------------------------------
 ## Author : @DMITRII LEBEDEV
 The accompanying assignment from IBM Advance AI @Infinite Learning is to explain code sourced from www.kaggle.com
+https://www.kaggle.com/code/dmitriilebedev/language-detection-w-rf
 ## Mentee Info
 
 - ### Name : Ahmad Farhan Muzakki
@@ -13,3 +14,9 @@ The accompanying assignment from IBM Advance AI @Infinite Learning is to explain
 - Python
 - Google Colab
 - Model Random Forest
+
+## Anggota Kelompok
+- Ahmad Farhan Muzakki
+- Muhammad Imron Maulana
+- Rivaldi Sabala
+
