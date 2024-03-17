@@ -1,4 +1,4 @@
-# Dataset language detection (regression and prediction)
+# Dataset Language Detection (Regression and Prediction)
 -----------------------------------------------
 ## Author : @DMITRII LEBEDEV
 The accompanying assignment from IBM Advance AI @Infinite Learning is to explain code sourced from www.kaggle.com
